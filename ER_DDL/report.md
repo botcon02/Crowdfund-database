@@ -2,7 +2,7 @@ Report
 ======
 
 Application constraints captured are limited as the DDL is restricted to structural constraints (primary/foreign/check), without use of triggers/functions.\
-Certain trival constraints, such as specific parameters of tables are left out (e.g. All backers must have their home address registered)\
+Certain trival constraints, such as specific parameters of tables are left out (e.g. All backers must have their home address registered)
 
 **Constraints captured**
 - Each user is identified by their unique email address
