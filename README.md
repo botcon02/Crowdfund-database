@@ -7,7 +7,7 @@ The first part of the project is on the design of Entity-relationship data model
 The second part of the project is the implementation of triggers, functions/procedures to support the functionalities of the application.\
 \
 ER_DDL: Entity-relationship data model and PostgreSQL database schema 
-
+Trigger_Functionality: Implementation of triggers and functions
 
 **Brief background of the database**
 
