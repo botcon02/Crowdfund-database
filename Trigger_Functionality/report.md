@@ -1,9 +1,9 @@
 Application Requirements
 ========================
 
-The database is required to provide certain functionalities as listed below./
-Triggers, functions and procedures are implemented to fulfill the requirements, specifically constraints from Part 1 of the project.
-The implementation of the triggers/functions are numbered accordingly in Proc.sql.
+The database is required to provide certain functionalities as listed below.\
+Triggers, functions and procedures are implemented to fulfill the requirements, specifically constraints from Part 1 of the project.\
+The implementation of the triggers and functions are numbered accordingly in Proc.sql.
 
 **Terminology**
 - Successful Projects: Fundings exceed the funding goal and deadline has passed
