@@ -6,7 +6,7 @@ The objective of the project is to design and model a crowd-fund database applic
 The first part of the project is on the design of Entity-relationship data model and translation into relational schema.\
 The second part of the project is the implementation of triggers, functions/procedures to support the functionalities of the application.\
 \
-ER_DDL: Entity-relationship data model and PostgreSQL database schema 
+ER_DDL: Entity-relationship data model and PostgreSQL database schema\ 
 Trigger_Functionality: Implementation of triggers and functions
 
 **Brief background of the database**
